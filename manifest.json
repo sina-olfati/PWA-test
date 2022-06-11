@@ -9,12 +9,14 @@
         {
             "src": "./images/pp1.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
+            "purpose": "any maskable"
     },
     {
         "src": "./images/pp2.png",
         "sizes": "612x612",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "any maskable"
     }
     ]
 }
